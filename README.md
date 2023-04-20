@@ -13,7 +13,6 @@
 ## Author
 
 - Website - [Marcioq](https://github.com/marcioq00)
-- Frontend Mentor - [@marcioq](https://www.frontendmentor.io/profile/marcioq00)
 
 # Getting Started with Create React App
 
